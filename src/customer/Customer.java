@@ -3,7 +3,7 @@ package customer;
 /**
  * This class +++Insert Description Here+++
  *
- * @author Fareeha Mirza
+ * @author Fareeha Mirza Feb 4th 2021
  */
 class Customer {
     private final double subtotal;
